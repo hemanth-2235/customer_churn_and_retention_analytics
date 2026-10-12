@@ -1,0 +1,7 @@
+{
+  "name": "Customer Churn & Retention Analytics System",
+  "description": "Enterprise Business Intelligence & Machine Learning platform for churn prediction, behavioral segmentation, customer risk scoring, and strategic retention campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
